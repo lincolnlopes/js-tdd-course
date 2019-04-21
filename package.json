@@ -1,0 +1,32 @@
+{
+  "name": "js-tdd-course",
+  "version": "1.0.0",
+  "description": "Biblioteca do curso de JS com TDD na prática.",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "dependencies": {
+    "eslint-plugin-chai-friendly": "^0.4.1",
+    "eslint-plugin-mocha": "^5.3.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lincolnlopes/js-tdd-course.git"
+  },
+  "keywords": [
+    "js",
+    "tdd",
+    "library"
+  ],
+  "author": "Lincoln Lopes <lincolnlopes@msn.com> (https://github.com/lincolnlopes)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lincolnlopes/js-tdd-course/issues"
+  },
+  "homepage": "https://github.com/lincolnlopes/js-tdd-course#readme"
+}
